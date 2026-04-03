@@ -71,8 +71,6 @@
 
 - 💬 Ask me about **CS at ETAMU** or **Life in Texas**.
 
-- ⚡ Fun Fact: I'm an '06-born student leveling up in a foreign country!
-
 
 
 <p align="right">
