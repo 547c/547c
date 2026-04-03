@@ -58,9 +58,9 @@
 
 <p align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=[여기에본인아이디쓰세요]&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[547c]&show_icons=true&theme=radical" alt="Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[여기에본인아이디쓰세요]&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[547c]&layout=compact&theme=radical" alt="Languages" />
 
 </p>
 
